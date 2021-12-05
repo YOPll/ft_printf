@@ -1,4 +1,5 @@
 <img width="202" alt="Screen Shot 2021-12-06 at 12 00 54 AM" src="https://user-images.githubusercontent.com/49567393/144767478-c79ae68d-f4a3-48a4-ba7b-ee03623a6380.png">
+
 # Introduction to ft_printf
 
 This is the third project in the [1337](https://1337.ma) Curriculum *#42network* . This project is pretty straight forward, recode the printf function. The versatility of the printf function in C represents a great exercise in programming for us. This project is of moderate difficulty. It will enable you to discover variadic functions in C. The key to a successful ft_printf is a well-structured and good extensible code.
@@ -37,5 +38,9 @@ See the subjects for further information
 
 
 <p align="center">
-    <img alt="100" src="Screen Shot 2021-12-06 at 12 00 54 AM" src="https://user-images.githubusercontent.com/49567393/144767478-c79ae68d-f4a3-48a4-ba7b-ee03623a6380.png" />
-  </a>
+<a href="https://github.com/YOPll/ft_printf">
+  <img src="https://user-images.githubusercontent.com/49567393/144767478-c79ae68d-f4a3-48a4-ba7b-ee03623a6380.png" alt="ft_printf 100/100">
+</a>
+  <br>
+  100/100
+</p>
