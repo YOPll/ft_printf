@@ -1,4 +1,10 @@
-<img width="202" alt="Screen Shot 2021-12-06 at 12 00 54 AM" src="https://user-images.githubusercontent.com/49567393/144767478-c79ae68d-f4a3-48a4-ba7b-ee03623a6380.png">
+<p align="center">
+<a href="https://github.com/YOPll/ft_printf">
+  <img src="https://user-images.githubusercontent.com/49567393/144767478-c79ae68d-f4a3-48a4-ba7b-ee03623a6380.png" alt="ft_printf 100/100">
+</a>
+  <br>
+  100/100
+</p>
 
 # Introduction to ft_printf
 
@@ -35,12 +41,3 @@ See the subjects for further information
 
 
 ---
-
-
-<p align="center">
-<a href="https://github.com/YOPll/ft_printf">
-  <img src="https://user-images.githubusercontent.com/49567393/144767478-c79ae68d-f4a3-48a4-ba7b-ee03623a6380.png" alt="ft_printf 100/100">
-</a>
-  <br>
-  100/100
-</p>
