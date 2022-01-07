@@ -91,16 +91,15 @@ int	ft_printf(const char *str, ...)
 		{
 			if (str[++i] != '%')
 			{
-				string_tr(&str[i], list, &j);
-				hex_tr(&str[i], list, &j);
-				udi_tr(&str[i], list, &j);
+				ft_check(str, list, &j, i);
 			}
-			else
+			else if (str[i])
 				j += write(1, &str[i], 1);
 		}
 		else
 			j += write(1, &str[i], 1);
-		i++;
+		if (str[i])
+			i++;
 	}
 	return (va_end(list), j);
 }

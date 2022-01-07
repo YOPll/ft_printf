@@ -12,6 +12,13 @@
 
 #include "ft_printf.h"
 
+void	ft_check(const char *str, va_list list, int *j, int i)
+{
+	string_tr(&str[i], list, j);
+	hex_tr(&str[i], list, j);
+	udi_tr(&str[i], list, j);
+}
+
 void	ft_hex(unsigned int x, int i, int *r)
 {
 	if (x >= 16)
