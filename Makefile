@@ -1,5 +1,7 @@
 NAME := libftprintf.a
 
+CC := cc
+
 CFILES := ft_printf.c ft_printf_utils.c
 
 HEADER := ft_printf.h
@@ -14,7 +16,7 @@ $(NAME): $(OBJS)
 	ar -rcs $(NAME) $(OBJS)
 
 %.o : %.c $(HEADER)
-	gcc $(CFLAGS) -c $<
+	$(CC) $(CFLAGS) -c $<
 
 clean:
 	rm -f $(OBJS)
